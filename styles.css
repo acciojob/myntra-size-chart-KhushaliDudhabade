@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+
+table{
+	border:1px solid black;
+	border-collapse: collapse;
+	width:100%;
+}
+th{
+	text-align:left;
+	color:white;
+}
+td{
+	text-align:right;
+}
+#t1{
+	background-color:#ba2937;
+}
+#t2{
+	background-color:#cc5e69;
+}
+#t3{
+	background-color:#dea2a9;
+}
+#t4{
+	background-color:#a39193;
+}
