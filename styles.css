@@ -6,13 +6,10 @@ table{
 	border-collapse: collapse;
 	width:100%;
 }
-th{
-	text-align:left;
-	color:white;
-}
 
 #t1{
 	background-color:#ba2937;
+	color:white;
 }
 #t2{
 	background-color:#cc5e69;
